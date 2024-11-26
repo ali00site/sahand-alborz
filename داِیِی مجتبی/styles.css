@@ -1,0 +1,19 @@
+.header{
+    background-color:cyan ;
+}
+.r {
+    background-color: white;
+}
+.h {    
+    background-color: black;
+    color: white;
+}
+.m {
+    width: 100%;
+    box-shadow: black;
+    color: black;
+    background-color: white;
+}
+.n {
+    background-color: burlywood;
+}
